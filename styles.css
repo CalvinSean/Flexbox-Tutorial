@@ -12,7 +12,7 @@
     justify-content: space-around; /* Add this */
 }
 
-.menu,.menu-2{
+.menu {
     border: 1px solid #fff; /* For debugging */
-    width: 100px;
+    width: 900px;
 }
